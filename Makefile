@@ -1,5 +1,4 @@
 #
-#
 # Copyright (c) 2015 Andrew Ayer
 #
 # See COPYING file for license information.
